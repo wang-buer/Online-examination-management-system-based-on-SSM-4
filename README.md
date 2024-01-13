@@ -1,10 +1,9 @@
-# 基于SSM的在线考试管理系统
-
+# 基于SSM的在线考试管理系统4
 ## 获取方式
 
-扫描下方，回复关键词  ：**考试4** ，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**考试**，查看导入教程视频、sql脚本和源码等
 
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -35,55 +34,47 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208131640087.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202208131640087.jpg)
 
 ### 4.2 学生模块
 
-![学生-我的考试](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208131641016.jpg)
+![学生-我的考试](https://www.codeshop.fun/Typora-Images/202208131641016.jpg)
 
-![学生-考试1](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208131641095.jpg)
+![学生-考试1](https://www.codeshop.fun/Typora-Images/202208131641095.jpg)
 
-![学生-考试信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208131641585.jpg)
+![学生-考试信息](https://www.codeshop.fun/Typora-Images/202208131641585.jpg)
 
-![学生-考试结果](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208131641697.jpg)
+![学生-考试结果](https://www.codeshop.fun/Typora-Images/202208131641697.jpg)
 
 ### 4.3 教师模块
 
-![教师-我的课程](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208131641404.jpg)
+![教师-我的课程](https://www.codeshop.fun/Typora-Images/202208131641404.jpg)
 
-![教师-上课班级信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208131641086.jpg)
+![教师-上课班级信息](https://www.codeshop.fun/Typora-Images/202208131641086.jpg)
 
-![教师-题目管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208131641747.jpg)
+![教师-题目管理](https://www.codeshop.fun/Typora-Images/202208131641747.jpg)
 
-![教师-添加题目](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208131641894.jpg)
+![教师-添加题目](https://www.codeshop.fun/Typora-Images/202208131641894.jpg)
 
-![教师-试卷管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208131641831.jpg)
+![教师-试卷管理](https://www.codeshop.fun/Typora-Images/202208131641831.jpg)
 
-![教师-阅卷管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208131641419.jpg)
+![教师-阅卷管理](https://www.codeshop.fun/Typora-Images/202208131641419.jpg)
 
-![教师-考试成绩统计](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208131641084.jpg)
+![教师-考试成绩统计](https://www.codeshop.fun/Typora-Images/202208131641084.jpg)
 
-![教师-试卷详情](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208131641983.jpg)
+![教师-试卷详情](https://www.codeshop.fun/Typora-Images/202208131641983.jpg)
 
-![教师-自动组卷](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208131641939.jpg)
+![教师-自动组卷](https://www.codeshop.fun/Typora-Images/202208131641939.jpg)
 
 ### 4.4 管理员模块
 
-![管理员-班级管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208131642180.jpg)
+![管理员-班级管理](https://www.codeshop.fun/Typora-Images/202208131642180.jpg)
 
-![管理员-学生管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208131642262.jpg)
+![管理员-学生管理](https://www.codeshop.fun/Typora-Images/202208131642262.jpg)
 
-![管理员-教师管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208131642026.jpg)
+![管理员-教师管理](https://www.codeshop.fun/Typora-Images/202208131642026.jpg)
 
-![管理员-科目管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208131642448.jpg)
+![管理员-科目管理](https://www.codeshop.fun/Typora-Images/202208131642448.jpg)
 
-![管理员-班级添加课程](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208131642536.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词  ： **考试4**，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+![管理员-班级添加课程](https://www.codeshop.fun/Typora-Images/202208131642536.jpg)
 
